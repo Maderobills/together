@@ -24,7 +24,7 @@ div.Login_Card{
     justify-content: center;
     text-align: center;
     align-items: center;
-    background-color: beige;
+    background-color: rgba(245, 245, 220, 0.342);
 }
 
 .login_header{
